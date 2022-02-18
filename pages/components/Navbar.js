@@ -19,7 +19,7 @@ export default function Navbar() {
               </g>
             </svg>
             <span className='text-xl text-white font-bold uppercase tracking-wide'>
-              EMERY'S HONEY
+              EMERY&apos;S HONEY
             </span>
           </a>
         </Link>
