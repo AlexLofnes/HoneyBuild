@@ -59,7 +59,7 @@ export default function Navbar() {
                 About
               </a>
             </Link>
-            <Link href='/'>
+            <Link href='/contact'>
               <a className='btn-nav'>
                 Contact us
               </a>
